@@ -6,4 +6,4 @@ Search for an image and receive images based off your input using the Unsplash A
 To start application: <br/>
 -clone repository <br/>
 -cd into the React-Image-Search folder <br/>
--run npm run start in the command line <br/>
+-run "npm run start" in the command line <br/>
